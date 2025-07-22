@@ -38,6 +38,7 @@ For a ADXL345 breakout board, simply run a wire. If you're using a CAN toolboard
 | ------ | :-------: | ------- | --------- | ---- |
 | Mellow Fly SB2040 (v1/v2) | ✓ | int1 | gpio21 | https://aliexpress.com/item/1005004675264551.html |
 | Mellow Fly SHT36 v2 | ✓ | int1 | PA10 | https://aliexpress.com/item/1005004675264551.html |
+| Mellow Fly SHT36 v3 | ✓ | int1 | gpio25 | https://www.aliexpress.com/item/1005007550954534.html |
 | Huvud | ✓ | ? | ? | |
 | NiteHawk | ✓ | int1 | gpio21 |
 | EBB36 | with soldering | int1/int2 | choose | |
